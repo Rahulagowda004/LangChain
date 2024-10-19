@@ -1,0 +1,8 @@
+python-dotenv
+langchain_groq
+langchain_community
+langchain_core
+transformers
+langchain-chroma
+langchain_huggingface
+bs4
