@@ -6,3 +6,5 @@ transformers
 langchain-chroma
 langchain_huggingface
 bs4
+langchain-google-genai
+langgraph
